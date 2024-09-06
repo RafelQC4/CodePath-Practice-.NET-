@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodePathApiPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae108234b6e97769ac2159440154f2a0a9b0b58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodePathApiPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodePathApiPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
