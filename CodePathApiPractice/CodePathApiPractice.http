@@ -1,0 +1,6 @@
+@CodePathApiPractice_HostAddress = http://localhost:5130
+
+GET {{CodePathApiPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
